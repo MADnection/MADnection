@@ -22,10 +22,8 @@
 > [!IMPORTANT]  
 > ʏ мᴇня низкᴀя ҕᴀтᴀᴘᴇйкᴀ, послᴇ тяжᴇлого дня я пᴘᴇдпочитᴀю посидᴇть в тишинᴇ, чᴇм оҕщᴀться с людьми, потомʏ ᴇсли хотитᴇ пооҕщᴀться, ҕʏдьтᴇ готовы к томʏ, что я нᴇ всᴇгдᴀ ҕʏдʏ хотᴇть того жᴇ
 
-<picture> 
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e3b08d3c-60a9-4dcd-aae8-c17336234b01">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taroccf/read/refs/heads/main/pngegg.png">
- <img alt="YOUR-ALT-TEXT" src="hhttps://raw.githubusercontent.com/taroccf/read/refs/heads/main/pngegg.png">
-</picture> 
-art cr @sk_rra
+<div id="header" align="center">
+  <img src="https://github.com/user-attachments/assets/1682df30-e385-4977-ba8e-5531aff2113f">
+</div>
+
 <img align="center" src="https://komarev.com/ghpvc/?username=taroccf&style=flat-square&color=red" alt=""/>
