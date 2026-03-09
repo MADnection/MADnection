@@ -1,32 +1,31 @@
-<h1 align="center">Hii!! моᴇ имя мᴀкʏ</a> 
-<h3 align="center">ᴘᴀзностоᴘонняя личность, люҕящᴀя свои ʏвлᴇчᴇния</h3>
+<h1 align="center"></a> 
+<h3 align="center">пᴘогᴘᴇсс зᴀстᴀвляᴇт ломᴀть вᴇщи, чтоҕы понять, что зᴀстᴀвляᴇт их ᴘᴀҕотᴀть</h3>
 
 > [!TIP]
 > нᴇ ҕойтᴇсь контᴀктиᴘовᴀть со мной, ᴇсли вы нᴇ сдᴇлᴀли ничᴇго плохого мнᴇ или моим дᴘʏзьям, я ҕʏдʏ только ᴘᴀд пооҕщᴀться 
 
 
 
-<picture> 
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taroccf/read/refs/heads/main/pngegg.png">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taroccf/read/refs/heads/main/pngegg.png">
- <img alt="YOUR-ALT-TEXT" src="hhttps://raw.githubusercontent.com/taroccf/read/refs/heads/main/pngegg.png">
-</picture> 
+<div id="header" align="center">
+  <img src="https://github.com/user-attachments/assets/8630da40-fe42-4284-b35e-ca0a740566d6" " width="500" height="300"/>
+</div>
  
-<p> ✧ пожᴀлʏйстᴀ, нᴇ взᴀимодᴇйствʏйтᴇ со мной, ᴇсли вы ᴘʏсофоҕ, пᴇдо, зоо и т.п!</p>
-<p> ✧ нᴇ жмитᴇсь ко мнᴇ, ᴇсли мы нᴇ ҕлизки, я изҕᴇгᴀю тᴀкоᴇ.</p>
-<p> ✧ нᴇ флиᴘтʏйтᴇ со мной или что-то из этого ᴘодᴀ, я нᴇ глʏпый, отличить сʏмᴇю</p>
+<p> - - - - - - <img <img width="20" height="21" alt="image" src="https://github.com/user-attachments/assets/6dd1b724-faf7-4150-9131-73974ca34f49">
+ :: 𝐃𝐍𝐈 list </p>
+<p> ✧ нᴇ ʏвᴀжᴀᴇтᴇ личныᴇ гᴘᴀницы; стоᴘонник пᴀᴘᴀфилии ҕольшой тᴘойки; лᴇзᴇтᴇ ҕᴇз пᴘичины; считᴀᴇтᴇ, что всᴇ вᴀм оҕязᴀны</p>
+<p> ✧ ᴇсли вы пᴘишли поссоᴘиться со мной, моим пᴀᴘтнᴇᴘом или дᴘʏзьями, я кинʏ вᴀс в ҕлок. я тᴀкжᴇ нᴇ стᴀнʏ оҕщᴀться с вᴀми, ᴇсли вы в плохих отношᴇниях с моими знᴀкомыми </p>
 
 <h1 align="center"> 𓆝 𓆟 𓆞 𓆝 </h1> 
- <p align="center"> ☾「 ✦ ʜᴇ/ʜɪᴍ | ɪɴᴛᴘ✦ 」☾</p>
+ <p align="center"> ☾「 ✦ ʜᴇ/ʜɪᴍ | ɪɴᴛᴊ ✦ 」☾</p>
   <p align="center"> ╰┈➤ пожᴀлʏйстᴀ, нᴇ пытᴀйтᴇсь ʏзнᴀть кто я, кᴀкой ʏ мᴇня пол, возᴘᴀст, всᴇ, что связᴀно с моᴇй личной инфоᴘмᴀциᴇй из дᴘʏгих ʏст </p>
 
 > [!IMPORTANT]  
 > ʏ мᴇня низкᴀя ҕᴀтᴀᴘᴇйкᴀ, послᴇ тяжᴇлого дня я пᴘᴇдпочитᴀю посидᴇть в тишинᴇ, чᴇм оҕщᴀться с людьми, потомʏ ᴇсли хотитᴇ пооҕщᴀться, ҕʏдьтᴇ готовы к томʏ, что я нᴇ всᴇгдᴀ ҕʏдʏ хотᴇть того жᴇ
 
 <picture> 
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taroccf/read/refs/heads/main/photo_2025-03-23_00-25-11.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e3b08d3c-60a9-4dcd-aae8-c17336234b01">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taroccf/read/refs/heads/main/pngegg.png">
  <img alt="YOUR-ALT-TEXT" src="hhttps://raw.githubusercontent.com/taroccf/read/refs/heads/main/pngegg.png">
 </picture> 
-art cr @captainrujoo 
+art cr @sk_rra
 <img align="center" src="https://komarev.com/ghpvc/?username=taroccf&style=flat-square&color=red" alt=""/>
