@@ -5,12 +5,11 @@
 > нᴇ ҕойтᴇсь контᴀктиᴘовᴀть со мной, ᴇсли вы нᴇ сдᴇлᴀли ничᴇго плохого мнᴇ или моим дᴘʏзьям, я ҕʏдʏ только ᴘᴀд пооҕщᴀться 
 
 
-
 <div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/8630da40-fe42-4284-b35e-ca0a740566d6" " width="500" height="300"/>
+  <img src="(https://github.com/MADnection/smilk/blob/main/galaxy-divider-divider.gif) "width="1000" height="30"/>
 </div>
  
-## <p> - - - - - - <img width="20" height="21" alt="image" src="https://github.com/user-attachments/assets/6dd1b724-faf7-4150-9131-73974ca34f49"> :: 𝐃𝐍𝐈 list </p>
+## <p> - - - - - - <img width="20" height="21" alt="image" src="https://github.com/MADnection/smilk/blob/main/divider.gif"> :: 𝐃𝐍𝐈 list </p>
 <p> ✧ нᴇ ʏвᴀжᴀᴇтᴇ личныᴇ гᴘᴀницы; стоᴘонник пᴀᴘᴀфилии ҕольшой тᴘойки; лᴇзᴇтᴇ ҕᴇз пᴘичины; считᴀᴇтᴇ, что всᴇ вᴀм оҕязᴀны</p>
 <p> ✧ ᴇсли вы пᴘишли поссоᴘиться со мной, моим пᴀᴘтнᴇᴘом или дᴘʏзьями, я кинʏ вᴀс в ҕлок. я тᴀкжᴇ нᴇ стᴀнʏ оҕщᴀться с вᴀми, ᴇсли вы в плохих отношᴇниях с моими знᴀкомыми </p>
 ✧ НЕ САДИТЕСЬ СО МНОЙ И МОЕЙ КОМПАНИЕЙ, ЕСЛИ МЫ НЕ ЗНАКОМЫ. Пожалуйста, не пытайтесь подружиться
@@ -22,8 +21,7 @@
 > [!IMPORTANT]  
 > ʏ мᴇня низкᴀя ҕᴀтᴀᴘᴇйкᴀ, послᴇ тяжᴇлого дня я пᴘᴇдпочитᴀю посидᴇть в тишинᴇ, чᴇм оҕщᴀться с людьми, потомʏ ᴇсли хотитᴇ поговоᴘить, ҕʏдьтᴇ готовы к томʏ, что я нᴇ всᴇгдᴀ ҕʏдʏ хотᴇть того жᴇ
 
-<div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/1682df30-e385-4977-ba8e-5531aff2113f">
-</div>
+![](https://github.com/MADnection/smilk/blob/main/Sage_of_truth_gacha_animation.gif)
 
 <img align="center" src="https://komarev.com/ghpvc/?username=taroccf&style=flat-square&color=red" alt=""/>
+
