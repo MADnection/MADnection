@@ -36,11 +36,11 @@
   <p> ╭  ·  я ⳅⲁⲏяⲧ ⳝⲟⲗьⲱⲩю ⳡⲁⲥⲧь ⲇⲏя υ ⲃ ⲡⲟⲏυ ⲧⲁⲩⲏⲉ ⲃ ⲟⲥⲏⲟⲃⲏⲟⲙ ⲡⲟяⲃⲗяюⲥь ⲏⲁ 3-5 ⳡⲁⲥⲟⲃ, ⲡⲟⲕⲁ ⳅⲁⲏяⲧ ⲇⲣⲩⲅⲟύ ⲣⲁⳝⲟⲧⲟύ. я ⳝыⲥⲧⲣⲟ ⲃыⲙⲁⲧыⲃⲁюⲥь υⳅ-ⳅⲁ ⲣⲁⲥⲡⲟⲣяⲇⲕⲁ ⲇⲏя υ ⲩⲥⲧⲁю, ⲡⲟэⲧⲟⲙⲩ ⲩ ⲙⲉⲏя ⲏⲉ ⲃⲥⲉⲅⲇⲁ ⲙⲟⲅⲩⲧ ⳝыⲧь ⲥυⲗы ⲏⲁ ⲣⲁⳅⲅⲟⲃⲟⲣ. υⲏⲟⲅⲇⲁ ⲕⲣυⲧυⲕⲩю, ⲕⲟⲅⲇⲁ ⲡⲟяⲃⲗяⲉⲧⲥя ⲃⲣⲉⲙя, ⲃ ⲟⲥⲏⲟⲃⲏⲟⲙ ⲏⲁ 2 ⲣⲩⲥⲥⲕⲟⲙ ⲥⲉⲣⲃⲉⲣⲉ </p> 
   
   <p align="center">
-  <img src="https://github.com/MADnection/smilk/blob/main/Cookie0605s01-see_user.webp" alt="animated" />
+  <img src="https://github.com/MADnection/smilk/blob/main/Cookie0605s01-see_user.webp" alt="animated" />    >ㅤ✧ sᴏɴɢ - Watermelon (Iman)
 </p>
 
 <p align="center">
   <img src="https://github.com/MADnection/smilk/blob/main/galaxy-divider-divider.gif" width="1000" height="10" />
 </p>
-  
+
 <img align="center" src="https://komarev.com/ghpvc/?username=taroccf&style=flat-square&color=red" alt=""/>
