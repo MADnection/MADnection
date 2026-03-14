@@ -1,13 +1,13 @@
 <h1 align="center"></a> 
-<h3 align="center">пᴘогᴘᴇсс зᴀстᴀвляᴇт ломᴀть вᴇщи, чтоҕы понять, что зᴀстᴀвляᴇт их ᴘᴀҕотᴀть</h3>
-
-> [!TIP]
-> нᴇ ҕойтᴇсь контᴀктиᴘовᴀть со мной, ᴇсли вы нᴇ сдᴇлᴀли ничᴇго плохого мнᴇ или моим дᴘʏзьям, я ҕʏдʏ только ᴘᴀд пооҕщᴀться 
+<h2 align="center">пᴘогᴘᴇсс зᴀстᴀвляᴇт ломᴀть вᴇщи, чтоҕы понять, что зᴀстᴀвляᴇт их ᴘᴀҕотᴀть</h2>
 
 <p align="center">
-  <img src="https://github.com/MADnection/smilk/blob/main/blue-divider.gif" alt="animated" width="1000" height="10" />
+  <img src="https://github.com/MADnection/smilk/blob/main/Illustration1.png" width="600" height="30" />
+
+<p align="center">
+  <img src="https://github.com/MADnection/smilk/blob/main/ai-generated-sand-clock-isolated-on-transparent-background-free-png.webp" widht="300" height="200" />  <img src="https://github.com/MADnection/smilk/blob/main/Illustration.png" widht="400" height="300" />  <img src="https://github.com/MADnection/smilk/blob/main/a-vibrant-isolated-galaxy-with-swirling-stars-and-luminous-core-displayed-on-a-clean-transparent-background-galaxy-isolated-on-transparent-background-free-png.webp" widht="300" height="200" /> 
 </p>
- 
+
 ## <p> ┌──────── <img width="50" height="55" alt="image" src="https://github.com/MADnection/smilk/blob/main/divider.gif"> :: 𝐃𝐍𝐈 𝐥𝐢𝐬𝐭 </p>
 <p> ✧ ⲏᴇ ʏⲃᴀⲿᴀᴇⲧᴇ ⲗυⳡⲏыᴇ ⲅᴘᴀⲏυцы; ⲥⲧⲟᴘⲟⲏⲏυⲕ ⲡᴀᴘᴀⲫυⲗυυ ҕⲟⲗьⲱⲟύ ⲧᴘⲟύⲕυ; ⲗᴇⳅᴇⲧᴇ ҕᴇⳅ ⲡᴘυⳡυⲏы; ⲥⳡυⲧᴀᴇⲧᴇ, ⳡⲧⲟ ⲃⲥᴇ ⲃᴀⲙ ⲟҕяⳅᴀⲏы</p>
 <p> ✧ ᴇⲥⲗυ ⲃы ⲡᴘυⲱⲗυ ⲡⲟⲥⲥⲟᴘυⲧьⲥя ⲥⲟ ⲙⲏⲟύ, ⲙⲟυⲙ ⲡᴀᴘⲧⲏᴇᴘⲟⲙ υⲗυ ⲇᴘʏⳅьяⲙυ, я ⲕυⲏʏ ⲃᴀⲥ ⲃ ҕⲗⲟⲕ. я ⲧᴀⲕⲿᴇ ⲏᴇ ⲥⲧᴀⲏʏ ⲟҕպᴀⲧьⲥя ⲥ ⲃᴀⲙυ, ᴇⲥⲗυ ⲃы ⲃ ⲡⲗⲟⲭυⲭ ⲟⲧⲏⲟⲱᴇⲏυяⲭ ⲥ ⲙⲟυⲙυ ⳅⲏᴀⲕⲟⲙыⲙυ </p>
