@@ -2,10 +2,10 @@
 <h2 align="center">пᴘогᴘᴇсс зᴀстᴀвляᴇт ломᴀть вᴇщи, чтоҕы понять, что зᴀстᴀвляᴇт их ᴘᴀҕотᴀть</h2>
 
 <p align="center">
-  <img src="https://github.com/MADnection/smilk/blob/main/Illustration1.png" width="600" height="30" />
+  <img src="https://github.com/MADnection/smilk/blob/main/Illustration1.png" width="600" height="60" />
 
 <p align="center">
-  <img src="https://github.com/MADnection/smilk/blob/main/Illustration8.png" widht="300" height="200" />  <img src="https://github.com/MADnection/smilk/blob/main/Illustration5.png" widht="350" height="250" />  <img src="https://github.com/MADnection/smilk/blob/main/Illustration9.png" widht="300" height="200" /> 
+  <img src="https://github.com/MADnection/smilk/blob/main/Illustration8.png" widht="300" height="200" />  <img src="https://github.com/MADnection/smilk/blob/main/Costume_cookie0605s01_loading.webp" widht="350" height="250" />  <img src="https://github.com/MADnection/smilk/blob/main/Illustration9.png" widht="300" height="200" /> 
 </p>
 
   
