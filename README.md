@@ -15,9 +15,6 @@
 ✧ ⲏᥱ ᥴᥲⲇυⲧᥱᥴь ᥴ𐔖 ⲙⲏ𐔖ύ υ ⲙ𐔖ᥱύ ⲕ𐔖ⲙᥒᥲⲏυᥱύ, ᥱᥴ᥈υ ⲙы ⲏᥱ ⳅⲏᥲⲕ𐔖ⲙы. ᥒ𐔖ⲿᥲ᥈𐔤ύᥴⲧᥲ, ⲏᥱ ᥒыⲧᥲύⲧᥱᥴь ᥒ𐔖ⲇρ𐔤ⲿυⲧьᥴя
 
 <h2> </h2> 
-<p align="center">
-<img src="https://github.com/MADnection/smilk/blob/main/blue-divider.gif" alt="animated" width="600" height="20" />
-</p>
 
 <h2></h2>
 <p align="center">
