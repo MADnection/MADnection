@@ -5,7 +5,7 @@
   <img src="https://github.com/MADnection/smilk/blob/main/Illustration1.png" width="600" height="30" />
 
 <p align="center">
-  <img src="https://github.com/MADnection/smilk/blob/main/ai-generated-sand-clock-isolated-on-transparent-background-free-png.webp" widht="300" height="200" />  <img src="https://github.com/MADnection/smilk/blob/main/Illustration.png" widht="400" height="300" />  <img src="https://github.com/MADnection/smilk/blob/main/a-vibrant-isolated-galaxy-with-swirling-stars-and-luminous-core-displayed-on-a-clean-transparent-background-galaxy-isolated-on-transparent-background-free-png.webp" widht="300" height="200" /> 
+  <img src="https://github.com/MADnection/smilk/blob/main/ai-generated-sand-clock-isolated-on-transparent-background-free-png.webp" widht="300" height="200" />  <img src="https://github.com/MADnection/smilk/blob/main/Illustration5.png" widht="350" height="250" />  <img src="https://github.com/MADnection/smilk/blob/main/a-vibrant-isolated-galaxy-with-swirling-stars-and-luminous-core-displayed-on-a-clean-transparent-background-galaxy-isolated-on-transparent-background-free-png.webp" widht="300" height="200" /> 
 </p>
 
 ## <p> ┌──────── <img width="50" height="55" alt="image" src="https://github.com/MADnection/smilk/blob/main/divider.gif"> :: 𝐃𝐍𝐈 𝐥𝐢𝐬𝐭 </p>
@@ -43,4 +43,7 @@
   <img src="https://github.com/MADnection/smilk/blob/main/galaxy-divider-divider.gif" width="1000" height="10" />
 </p>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=taroccf&style=flat-square&color=red" alt=""/> 
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=taroccf&style=flat-square&color=blue" alt=""/> 
+</p> 
