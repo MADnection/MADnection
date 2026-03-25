@@ -1,7 +1,18 @@
+
 <p align="center">
+  <img src="https://github.com/MADnection/smilk/blob/main/hazard-hazard-tape.gif"/> 
+
+  <h1></h1>
+
+<p align="center">
+  <img src="https://github.com/MADnection/smilk/blob/main/FFFFF.png" width="600" height="150" /> 
+   </p>
+
+   <p align="center">
 <img src="https://komarev.com/ghpvc/?username=taroccf&style=flat-square&color=yellow" alt="HELL"/> 
 </p>
  
+   
 <h3
 <p align="center"; style="color:red" >
 $\color{#ffff00}{\textsf{⧽ㅤ𝘮𝘢𝘥𝘯𝘦𝘤𝘵𝘪𝘰𝘯 ㅤ◡ㅤᵐᵃᶜᵏᵘㅤ꒱}}$
@@ -13,7 +24,7 @@ $\color{#ffff00}{\textsf{﹌：ㅤῳ2ıㅤ˘ㅤ𝘥𝘯𝘵ㅤ.ᐟㅤ𝐍𝐎 �
 <p align="center">
   <img src="https://github.com/MADnection/smilk/blob/main/ааа.png" widht="800" height="500 "/> 
 
-
+<h1></h1>
 
  <details align="center"; style="color:red" >
   <summary> $\color{#ffff00}{\textsf{ㅤ⁝ㅤ𝒅𝒐 𝘶 ω𝘢𝘯𝘯𝘢 𝘬𝘯𝘰𝘸 𝙢𝙤𝙧𝙚?}}$ </summary>
